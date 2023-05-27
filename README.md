@@ -4,8 +4,8 @@
 La Aplicación de Contactos es una aplicación web desarrollada en .NET 7 utilizando el patrón de diseño Modelo-Vista-Controlador (MVC). Permite al usuario gestionar una lista de contactos, realizar operaciones de creación, lectura, actualización y eliminación de contactos, y mantener información detallada como nombre, teléfono, celular y correo electrónico para cada contacto.
 
 ### Requisitos del Sistema
-- **Windows 10 o versión posterior
-- **.NET 7 Runtime instalado
+-** Windows 10 o versión posterior
+-** .NET 7 Runtime instalado
 - **Navegador web moderno (Chrome, Firefox, Edge, etc.)
 - **Tecnologías Utilizadas
 - **.NET 7
