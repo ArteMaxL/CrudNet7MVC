@@ -1,4 +1,4 @@
-## Documentación de la Aplicación de Contactos
+## Aplicación de Contactos
 
 ### Descripción
 La Aplicación de Contactos es una aplicación web desarrollada en .NET 7 utilizando el patrón de diseño Modelo-Vista-Controlador (MVC). Permite al usuario gestionar una lista de contactos, realizar operaciones de creación, lectura, actualización y eliminación de contactos, y mantener información detallada como nombre, teléfono, celular y correo electrónico para cada contacto.
@@ -36,3 +36,7 @@ La aplicación no requiere configuración adicional. Sin embargo, asegúrate de que
 7. Puedes buscar contactos por nombre utilizando el campo de búsqueda en la parte superior de la página. Escribe el nombre del contacto que deseas buscar y presiona Enter para ver los resultados filtrados.
 8. Puedes ordenar la lista de contactos haciendo clic en los encabezados de las columnas. Haz clic una vez para ordenar de forma ascendente y haz clic nuevamente para ordenar de forma descendente.
 9. Para cerrar la aplicación, simplemente cierra la ventana del navegador o detén la ejecución del programa desde tu IDE.
+
+### Actualización
+- Se puede visualizar la grilla de contactos con una paginación editable en cuanto a cantidad de elementos a visualizar por página.
+- Se agregó la opción de búsqueda de contactos.
